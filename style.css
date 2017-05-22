@@ -96,3 +96,6 @@ article li {
   letter-spacing: 1px;
   line-height: 115%;
 }
+#intro {
+	float: left;
+}
