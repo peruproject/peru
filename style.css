@@ -102,3 +102,7 @@ article li {
 section {
 	float: left;
 }
+.firstPic {
+	float: left;
+	margin-right: 10px;
+}
