@@ -30,6 +30,7 @@ nav ul {
 }
 nav li a {
 	text-decoration: none;
+	display: block;
 }
 header {
 	text-align: left;
@@ -41,7 +42,6 @@ header {
 }
 a {
   color: #0000ff;
-  display: block;
 }
 header h1 {
   margin-bottom: 0;
