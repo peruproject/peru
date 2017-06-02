@@ -102,6 +102,9 @@ article li {
 section {
 	float: left;
 }
+section p {
+	letter-spacing: .375px;
+}
 .firstPic {
 	float: left;
 	margin-right: 10px;
